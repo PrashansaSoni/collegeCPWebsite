@@ -1,38 +1,28 @@
-# sv
+# CP Pattern Practice Platform
 
-Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
+This project is made to help people practice Competitive Programming (CP) based on problem patterns (like DP, graphs, greedy, etc.).
 
-## Creating a project
+## Why I Built This
 
-If you're seeing this, you've probably already done this step. Congrats!
+I wanted to create a simple and organized way for others to practice CP questions based on patterns. It can be hard to know what to solve next, so this platform gives a clear path.
 
-```bash
-# create a new project in the current directory
-npx sv create
+## Tech Stack
 
-# create a new project in my-app
-npx sv create my-app
-```
+* **SvelteKit** – used for building the frontend and backend (for some ssr).
+* **Custom Docker-based Online Judge** – used for compiling and running code submissions (under development).
+* **Database** - (will be added) - supabase along with drizzle ORM
 
-## Developing
+### Note - some other features like state management like (authentication and authorization will be added)
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+## Status
 
-```bash
-npm run dev
+🚧 **This project is still under development.**
+Features and problems will be added gradually.
 
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
+## Goal
 
-## Building
+Make CP learning and practice easier and more structured for everyone.
 
-To create a production version of your app:
+## Note
 
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
+This repo is under development
