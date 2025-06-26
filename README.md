@@ -16,13 +16,9 @@ I wanted to create a simple and organized way for others to practice CP question
 
 ## Status
 
-🚧 **This project is still under development.**
+**This project is still under development.**
 Features and problems will be added gradually.
 
 ## Goal
 
 Make CP learning and practice easier and more structured for everyone.
-
-## Note
-
-This repo is under development
