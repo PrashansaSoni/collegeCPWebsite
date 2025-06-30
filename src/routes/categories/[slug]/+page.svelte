@@ -7,7 +7,7 @@
 </script>
 
 <svelte:head>
-	<title>Study Plan: {studyPlan.title}</title>
+	<title>{studyPlan.title}</title>
 </svelte:head>
 
 <div class="min-h-screen bg-gray-900 p-2 font-sans text-gray-400 sm:p-8 md:p-12">

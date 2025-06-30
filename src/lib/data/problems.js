@@ -9,7 +9,7 @@ export const allProblems = [
 		url: 'https://leetcode.com/problems/climbing-stairs/',
 		githubUrl: '#',
 		youtubeUrl: '#',
-		codeUrl: '#'
+		codeUrl: 'problem/70'
 	},
 	{
 		id: '509',

@@ -3,6 +3,10 @@
 	import cards from '$lib/data/cards.json';
 </script>
 
+<svelte:head>
+	<title>Categories</title>
+</svelte:head>
+
 <div class="flex justify-center py-10">
 	<div class="grid grid-cols-3 gap-10">
 		{#each cards as card}
