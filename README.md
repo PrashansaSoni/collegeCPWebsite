@@ -10,7 +10,7 @@ I wanted to create a simple and organized way for others to practice CP question
 
 * **SvelteKit** – used for building the frontend and backend (for some ssr).
 * **Custom Docker-based Online Judge** – used for compiling and running code submissions (under development).
-* **Database** - (will be added) - supabase along with drizzle ORM
+* **Database** - (will be added) - supabase/pocketbase along with drizzle ORM
 
 ### Note - some other features like state management like (authentication and authorization will be added)
 
