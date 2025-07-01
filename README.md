@@ -1,5 +1,7 @@
 # CP Pattern Practice Platform
 
+[Demo to the website](https://cp-platform-te8k.vercel.app/)
+
 This project is made to help people practice Competitive Programming (CP) based on problem patterns (like DP, graphs, greedy, etc.).
 
 ## Why I Built This

@@ -1,5 +1,7 @@
 <div align="center">
-#LeetCode: Your Training Ground for Coding Excellence
+Hello, juniors of Central University of Haryana,
+To streamline your coding practice, I've built a website just for you. It organizes problem links from LeetCode, GeeksforGeeks, and Codeforces into clear categories.
+However, some problems weren't available, I added them myself by building a custom compiler like Judge0 with Docker, so you can solve them directly on the site but this is not fully completed, i will complete it soon.
 
 Codeforces, Leetcode, Codechef, Atcoder are widely popular online platform designed for practicing coding problems, primarily focused on algorithms and data structures. It offers a vast library of questions, ranging in difficulty from easy to hard, covering a comprehensive range of topics essential for software engineering interviews and real-world coding challenges. Think of it as a gym for your coding brain.
 
