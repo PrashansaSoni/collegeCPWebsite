@@ -187,6 +187,26 @@ export default {
 			name: 'Topological Sort',
 			problems: [
 				{
+					name: 'Topological sort DFS',
+					completed: false,
+					difficulty: 'Medium',
+					platform: 'gfg',
+					url: 'https://www.geeksforgeeks.org/problems/topological-sort/1',
+					githubUrl: '#',
+					youtubeUrl: '#',
+					codeUrl: '/code/course-schedule'
+				},
+				{
+					name: 'Topological sort BFS',
+					completed: false,
+					difficulty: 'Medium',
+					platform: 'gfg',
+					url: 'https://www.geeksforgeeks.org/problems/topological-sort/1',
+					githubUrl: '#',
+					youtubeUrl: '#',
+					codeUrl: '/code/course-schedule'
+				},
+				{
 					name: 'Course Schedule',
 					completed: false,
 					difficulty: 'Medium',
@@ -195,6 +215,56 @@ export default {
 					githubUrl: '#',
 					youtubeUrl: '#',
 					codeUrl: '/code/course-schedule'
+				},
+				{
+					name: 'Course Schedule - II',
+					completed: false,
+					difficulty: 'Medium',
+					platform: 'leetcode',
+					url: 'https://leetcode.com/problems/course-schedule-ii/ ',
+					githubUrl: '#',
+					youtubeUrl: '#',
+					codeUrl: '/code/course-schedule'
+				}
+			]
+		},
+		{
+			name: 'Detect Cycles',
+			problems: [
+				{
+					name: 'Detect Cycle in directed graph',
+					completed: false,
+					difficulty: 'Medium',
+					platform: 'gfg',
+					url: 'https://www.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1',
+					githubUrl: '#',
+					youtubeUrl: '#',
+					codeUrl: '/code/shortest-path-in-an-undirected-graph'
+				}
+			]
+		},
+		{
+			name: 'Is Graph bipartite?',
+			problems: [
+				{
+					name: 'Check whether graph is bipartite using dfs',
+					completed: false,
+					difficulty: 'Medium',
+					platform: 'gfg',
+					url: 'https://www.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1',
+					githubUrl: '#',
+					youtubeUrl: '#',
+					codeUrl: '/code/shortest-path-in-an-undirected-graph'
+				},
+				{
+					name: 'Check whether graph is bipartite using bfs',
+					completed: false,
+					difficulty: 'Medium',
+					platform: 'gfg',
+					url: 'https://www.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1',
+					githubUrl: '#',
+					youtubeUrl: '#',
+					codeUrl: '/code/shortest-path-in-an-undirected-graph'
 				}
 			]
 		},
@@ -219,9 +289,9 @@ export default {
 				{
 					name: "Kruskal's Algorithm",
 					completed: false,
-					difficulty: 'Hard',
+					difficulty: 'Medium',
 					platform: 'gfg',
-					url: 'https://www.geeksforgeeks.org/kruskals-minimum-spanning-tree-algorithm-greedy-algo-2/ ',
+					url: 'https://www.geeksforgeeks.org/problems/minimum-spanning-tree/1',
 					githubUrl: '#',
 					youtubeUrl: '#',
 					codeUrl: '/code/kruskals-algorithm'
@@ -231,10 +301,30 @@ export default {
 					completed: false,
 					difficulty: 'Hard',
 					platform: 'gfg',
-					url: 'https://www.geeksforgeeks.org/prims-minimum-spanning-tree-mst-greedy-algo-5/ ',
+					url: 'https://www.geeksforgeeks.org/problems/minimum-spanning-tree/1',
 					githubUrl: '#',
 					youtubeUrl: '#',
 					codeUrl: '/code/prims-algorithm'
+				},
+				{
+					name: 'Minimum cost to connect all points',
+					completed: false,
+					difficulty: 'Medium',
+					platform: 'leetcode',
+					url: 'https://leetcode.com/problems/min-cost-to-connect-all-points/',
+					githubUrl: '#',
+					youtubeUrl: '#',
+					codeUrl: '#'
+				},
+				{
+					name: 'Minimum cost to connect all points with kruskal',
+					completed: false,
+					difficulty: 'Medium',
+					platform: 'leetcode',
+					url: 'https://leetcode.com/problems/min-cost-to-connect-all-points/',
+					githubUrl: '#',
+					youtubeUrl: '#',
+					codeUrl: '#'
 				}
 			]
 		}
