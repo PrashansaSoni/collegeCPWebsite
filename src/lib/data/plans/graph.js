@@ -269,21 +269,6 @@ export default {
 			]
 		},
 		{
-			name: 'Single Source Shortest Path',
-			problems: [
-				{
-					name: 'Shortest Path in an Undirected Graph',
-					completed: false,
-					difficulty: 'Medium',
-					platform: 'gfg',
-					url: 'https://www.geeksforgeeks.org/shortest-path-unweighted-graph/ ',
-					githubUrl: '#',
-					youtubeUrl: '#',
-					codeUrl: '/code/shortest-path-in-an-undirected-graph'
-				}
-			]
-		},
-		{
 			name: 'Minimum Spanning Tree',
 			problems: [
 				{
@@ -317,14 +302,209 @@ export default {
 					codeUrl: '#'
 				},
 				{
-					name: 'Minimum cost to connect all points with kruskal',
+					name: 'Number of operations to make network connected',
 					completed: false,
 					difficulty: 'Medium',
 					platform: 'leetcode',
-					url: 'https://leetcode.com/problems/min-cost-to-connect-all-points/',
+					url: 'https://leetcode.com/problems/number-of-operations-to-make-network-connected/',
 					githubUrl: '#',
 					youtubeUrl: '#',
 					codeUrl: '#'
+				},
+				{
+					name: 'Most stones removed with same rows or columns',
+					completed: false,
+					difficulty: 'Medium',
+					platform: 'leetcode',
+					url: 'https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/',
+					githubUrl: '#',
+					youtubeUrl: '#',
+					codeUrl: '#'
+				},
+				{
+					name: 'Accounts merge',
+					completed: false,
+					difficulty: 'Hard',
+					platform: 'leetcode',
+					url: 'https://leetcode.com/problems/accounts-merge/',
+					githubUrl: '#',
+					youtubeUrl: '#',
+					codeUrl: '#'
+				},
+				{
+					name: 'Number of island II',
+					completed: false,
+					difficulty: 'Hard',
+					platform: 'leetcode',
+					url: 'https://leetcode.com/problems/number-of-islands-ii/',
+					githubUrl: '#',
+					youtubeUrl: '#',
+					codeUrl: '#'
+				},
+				{
+					name: 'Making a Large Island',
+					completed: false,
+					difficulty: 'Hard',
+					platform: 'leetcode',
+					url: 'https://leetcode.com/problems/making-a-large-island/',
+					githubUrl: '#',
+					youtubeUrl: '#',
+					codeUrl: '#'
+				},
+				{
+					name: 'Swim in rising water',
+					completed: false,
+					difficulty: 'Hard',
+					platform: 'leetcode',
+					url: 'https://leetcode.com/problems/swim-in-rising-water/',
+					githubUrl: '#',
+					youtubeUrl: '#',
+					codeUrl: '#'
+				}
+			]
+		},
+		{
+			name: 'Single Source Shortest Path',
+			problems: [
+				{
+					name: 'Shortest Path in an Undirected Graph',
+					completed: false,
+					difficulty: 'Medium',
+					platform: 'gfg',
+					url: 'https://www.geeksforgeeks.org/shortest-path-unweighted-graph/',
+					githubUrl: '#',
+					youtubeUrl: '#',
+					codeUrl: '/code/shortest-path-in-an-undirected-graph'
+				},
+				{
+					name: 'Shortest Path in UG with unit weights',
+					completed: false,
+					difficulty: 'Medium',
+					platform: 'gfg',
+					url: '',
+					githubUrl: '#',
+					youtubeUrl: '#',
+					codeUrl: ''
+				},
+				{
+					name: 'Shortest Path in DAG',
+					completed: false,
+					difficulty: 'Hard',
+					platform: 'gfg',
+					url: '',
+					githubUrl: '#',
+					youtubeUrl: '#',
+					codeUrl: ''
+				},
+				{
+					name: "Djisktra's Algorithm",
+					completed: false,
+					difficulty: 'Hard',
+					platform: 'gfg',
+					url: '',
+					githubUrl: '#',
+					youtubeUrl: '#',
+					codeUrl: ''
+				},
+				{
+					name: "Why priority Queue is used in Djisktra's Algorithm",
+					completed: false,
+					difficulty: 'Medium',
+					platform: 'gfg',
+					url: '',
+					githubUrl: '#',
+					youtubeUrl: '#',
+					codeUrl: ''
+				},
+				{
+					name: 'Shortest path in a binary maze',
+					completed: false,
+					difficulty: 'Medium',
+					platform: 'leetcode',
+					url: 'https://leetcode.com/problems/shortest-path-in-binary-matrix/',
+					githubUrl: '#',
+					youtubeUrl: '#',
+					codeUrl: ''
+				},
+				{
+					name: 'Path with minimum effort',
+					completed: false,
+					difficulty: 'Medium',
+					platform: 'leetcode',
+					url: 'https://leetcode.com/problems/path-with-minimum-effort/',
+					githubUrl: '#',
+					youtubeUrl: '#',
+					codeUrl: ''
+				},
+				{
+					name: 'Cheapest flights within k stops',
+					completed: false,
+					difficulty: 'Medium',
+					platform: 'leetcode',
+					url: 'https://leetcode.com/problems/cheapest-flights-within-k-stops/',
+					githubUrl: '#',
+					youtubeUrl: '#',
+					codeUrl: ''
+				},
+				{
+					name: 'Network Delay time',
+					completed: false,
+					difficulty: 'Medium',
+					platform: 'leetcode',
+					url: 'https://leetcode.com/problems/network-delay-time/',
+					githubUrl: '#',
+					youtubeUrl: '#',
+					codeUrl: ''
+				},
+				{
+					name: 'Number of ways to arrive at destination',
+					completed: false,
+					difficulty: 'Medium',
+					platform: 'leetcode',
+					url: 'https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/',
+					githubUrl: '#',
+					youtubeUrl: '#',
+					codeUrl: ''
+				},
+				{
+					name: 'Minimum steps to reach end from start by performing multiplication and mod operations with array elements',
+					completed: false,
+					difficulty: 'Medium',
+					platform: 'gfg',
+					url: '',
+					githubUrl: '#',
+					youtubeUrl: '#',
+					codeUrl: ''
+				},
+				{
+					name: 'Bellman Ford Algorithm',
+					completed: false,
+					difficulty: 'Hard',
+					platform: 'gfg',
+					url: '',
+					githubUrl: '#',
+					youtubeUrl: '#',
+					codeUrl: ''
+				},
+				{
+					name: 'Floyd Warshal Algorithm',
+					completed: false,
+					difficulty: 'Hard',
+					platform: 'gfg',
+					url: '',
+					githubUrl: '#',
+					youtubeUrl: '#',
+					codeUrl: ''
+				},
+				{
+					name: 'Find the city with the smallest number of neighbors in a threshold distance',
+					completed: false,
+					difficulty: 'Hard',
+					platform: 'leetcode',
+					url: 'https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/',
+					githubUrl: '#',
+					youtubeUrl: '#',
+					codeUrl: ''
 				}
 			]
 		}

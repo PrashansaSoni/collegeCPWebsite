@@ -63,6 +63,16 @@ export default {
 					githubUrl: '#',
 					youtubeUrl: '#',
 					codeUrl: '#'
+				},
+				{
+					name: 'Letter combination of a phone number ',
+					completed: false,
+					difficulty: 'Medium',
+					platform: 'leetcode',
+					url: 'https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/',
+					githubUrl: '#',
+					youtubeUrl: '#',
+					codeUrl: '#'
 				}
 			]
 		}

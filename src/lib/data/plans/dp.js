@@ -255,6 +255,46 @@ export default {
 					githubUrl: '#',
 					youtubeUrl: 'https://www.youtube.com/watch?v=O_G2hVZvNBg',
 					codeUrl: '#'
+				},
+				{
+					name: 'Palindrome Partitioning',
+					completed: false,
+					difficulty: 'Medium',
+					platform: 'leetcode',
+					url: 'https://leetcode.com/problems/palindrome-partitioning/',
+					githubUrl: '#',
+					youtubeUrl: '#',
+					codeUrl: '#'
+				},
+				{
+					name: 'Evaluate Expression to True Boolean Parenthesization',
+					completed: false,
+					difficulty: 'Hard',
+					platform: 'gfg',
+					url: 'https://www.geeksforgeeks.org/problems/boolean-parenthesization5610/1',
+					githubUrl: '#',
+					youtubeUrl: '#',
+					codeUrl: '#'
+				},
+				{
+					name: 'Scrambled String',
+					completed: false,
+					difficulty: 'Hard',
+					platform: 'leetcode',
+					url: 'https://leetcode.com/problems/scramble-string/',
+					githubUrl: '#',
+					youtubeUrl: '#',
+					codeUrl: '#'
+				},
+				{
+					name: 'Egg Dropping Problem',
+					completed: false,
+					difficulty: 'Hard',
+					platform: 'leetcode',
+					url: 'https://leetcode.com/problems/super-egg-drop/',
+					githubUrl: '#',
+					youtubeUrl: '#',
+					codeUrl: '#'
 				}
 			]
 		},
