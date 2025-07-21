@@ -1,6 +1,6 @@
 # CP Pattern Practice Platform
 
-[Demo to the website](https://6863f83b8526b168054c799e--amazing-tiramisu-776a6a.netlify.app/)
+[Demo to the website](https://cp-platform-one.vercel.app/)
 
 This project is made to help people practice Competitive Programming (CP) based on problem patterns (like DP, graphs, greedy, etc.).
 
