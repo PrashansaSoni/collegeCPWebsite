@@ -180,6 +180,16 @@ export default {
 					githubUrl: '#',
 					youtubeUrl: '#',
 					codeUrl: '/code/shortest-path-in-binary-matrix'
+				},
+				{
+					name: 'Shortest Path visiting all nodes',
+					completed: false,
+					difficulty: 'Hard',
+					platform: 'leetcode',
+					url: 'https://leetcode.com/problems/shortest-path-visiting-all-nodes/',
+					githubUrl: '#',
+					youtubeUrl: '#',
+					codeUrl: '/code/shortest-path-in-binary-matrix'
 				}
 			]
 		},
@@ -367,11 +377,11 @@ export default {
 			name: 'Single Source Shortest Path',
 			problems: [
 				{
-					name: 'Shortest Path in an Undirected Graph',
+					name: 'Shortest Path in an Weighted Undirected Graph',
 					completed: false,
 					difficulty: 'Medium',
 					platform: 'gfg',
-					url: 'https://www.geeksforgeeks.org/shortest-path-unweighted-graph/',
+					url: 'https://www.geeksforgeeks.org/problems/shortest-path-in-weighted-undirected-graph/1',
 					githubUrl: '#',
 					youtubeUrl: '#',
 					codeUrl: '/code/shortest-path-in-an-undirected-graph'
@@ -381,7 +391,7 @@ export default {
 					completed: false,
 					difficulty: 'Medium',
 					platform: 'gfg',
-					url: '',
+					url: 'https://www.geeksforgeeks.org/problems/shortest-path-in-undirected-graph-having-unit-distance/1',
 					githubUrl: '#',
 					youtubeUrl: '#',
 					codeUrl: ''
@@ -391,7 +401,7 @@ export default {
 					completed: false,
 					difficulty: 'Hard',
 					platform: 'gfg',
-					url: '',
+					url: 'https://www.geeksforgeeks.org/problems/shortest-path-in-undirected-graph/1',
 					githubUrl: '#',
 					youtubeUrl: '#',
 					codeUrl: ''
@@ -401,17 +411,7 @@ export default {
 					completed: false,
 					difficulty: 'Hard',
 					platform: 'gfg',
-					url: '',
-					githubUrl: '#',
-					youtubeUrl: '#',
-					codeUrl: ''
-				},
-				{
-					name: "Why priority Queue is used in Djisktra's Algorithm",
-					completed: false,
-					difficulty: 'Medium',
-					platform: 'gfg',
-					url: '',
+					url: 'https://www.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1',
 					githubUrl: '#',
 					youtubeUrl: '#',
 					codeUrl: ''
@@ -467,11 +467,11 @@ export default {
 					codeUrl: ''
 				},
 				{
-					name: 'Minimum steps to reach end from start by performing multiplication and mod operations with array elements',
+					name: 'Minimum muliplication to reach end',
 					completed: false,
 					difficulty: 'Medium',
 					platform: 'gfg',
-					url: '',
+					url: 'https://www.geeksforgeeks.org/problems/minimum-multiplications-to-reach-end/1',
 					githubUrl: '#',
 					youtubeUrl: '#',
 					codeUrl: ''
@@ -481,7 +481,7 @@ export default {
 					completed: false,
 					difficulty: 'Hard',
 					platform: 'gfg',
-					url: '',
+					url: 'https://www.geeksforgeeks.org/problems/distance-from-the-source-bellman-ford-algorithm/1',
 					githubUrl: '#',
 					youtubeUrl: '#',
 					codeUrl: ''
@@ -491,7 +491,7 @@ export default {
 					completed: false,
 					difficulty: 'Hard',
 					platform: 'gfg',
-					url: '',
+					url: 'https://www.geeksforgeeks.org/problems/implementing-floyd-warshall2042/1',
 					githubUrl: '#',
 					youtubeUrl: '#',
 					codeUrl: ''

@@ -57,10 +57,10 @@
 	}
 </script>
 
-<div class="flex h-screen bg-zinc-800">
+<div class="flex h-screen">
 	<!-- Problem Section -->
 	<div class="w-1/2 overflow-y-auto p-6">
-		<div class="mb-6 rounded-lg bg-zinc-800 p-6 text-white shadow-sm">
+		<div class="`p-6 mb-6 rounded-lg text-white shadow-sm">
 			<div class="mb-6 flex items-center gap-3">
 				<h1 class="text-2xl font-semibold text-amber-500">
 					{template.id}. {template.title}
@@ -70,10 +70,10 @@
 				</span>
 			</div>
 
-			<p class="mb-6 italic text-white">{template.description}</p>
+			<p class="mb-6 text-white italic">{template.description}</p>
 
 			{#each template.examples as example (example.input)}
-				<div class="mb-4 rounded-lg bg-zinc-800 p-4">
+				<div class="`p-4 mb-4 rounded-lg">
 					<h3 class="mb-2 font-medium">
 						Example {template.examples.indexOf(example) + 1}:
 					</h3>
@@ -85,7 +85,7 @@
 				</div>
 			{/each}
 
-			<div class="rounded-lg bg-zinc-800 p-4">
+			<div class="`p-4 rounded-lg">
 				<h3 class="mb-2 font-medium">Constraints:</h3>
 				<ul class="list-disc pl-6">
 					{#each template.constraints as constraint (constraint)}
@@ -100,7 +100,7 @@
 			<h2 class="mb-4 text-lg font-semibold">Test Cases</h2>
 			<div class="space-y-3">
 				{#each template.test_cases as tc, index}
-					<div class="flex items-center justify-between rounded-lg bg-zinc-800 p-3">
+					<div class="`p-3 flex items-center justify-between rounded-lg">
 						<div class="flex-1">
 							<p class="text-sm font-bold text-white">Case {tc.id}</p>
 							<p class="text-sm text-white">{tc.input}</p>
@@ -125,7 +125,7 @@
 	</div>
 
 	<!-- Code Section -->
-	<div class="flex w-1/2 flex-col border-l border-gray-200 bg-zinc-800">
+	<div class="border-gray-200` flex w-1/2 flex-col border-l">
 		<div class="flex items-center justify-between border-b border-gray-200 p-4">
 			<select
 				bind:value={selectedLanguage}

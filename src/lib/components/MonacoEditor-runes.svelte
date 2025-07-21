@@ -2,7 +2,7 @@
 	import { onMount, onDestroy } from 'svelte';
 	import loader from '@monaco-editor/loader';
 
-	let { value = $bindable(), language = 'javscript', theme = 'vs-dark' } = $props();
+	let { value = $bindable(), language = 'javscript', theme = 'hc-black' } = $props();
 	let editor = $state();
 	let monaco = $state();
 	let editorContainer = $state();

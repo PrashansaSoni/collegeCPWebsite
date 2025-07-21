@@ -74,10 +74,10 @@
 	}
 </script>
 
-<div class="flex h-screen bg-zinc-800">
+<div class="flex h-screen">
 	<!-- Problem Section -->
 	<div class="w-1/2 overflow-y-auto p-6">
-		<div class="mb-6 rounded-lg bg-zinc-800 p-6 text-white shadow-sm">
+		<div class="mb-6 rounded-lg p-6 text-white shadow-sm">
 			<div class="mb-6 flex items-center gap-3">
 				<h1 class="text-2xl font-semibold text-amber-500">
 					{template.id}. {template.title}
@@ -87,10 +87,10 @@
 				</span>
 			</div>
 
-			<p class="mb-6 italic text-white">{template.description}</p>
+			<p class="mb-6 text-white italic">{template.description}</p>
 
 			{#each template.examples as example (example.input)}
-				<div class="mb-4 rounded-lg bg-zinc-800 p-4">
+				<div class="mb-4 rounded-lg p-4">
 					<h3 class="mb-2 font-medium">
 						Example {template.examples.indexOf(example) + 1}:
 					</h3>
@@ -142,12 +142,12 @@
 	</div>
 
 	<!-- Code Section -->
-	<div class="flex w-1/2 flex-col border-l border-gray-200 bg-zinc-800">
+	<div class="flex w-1/2 flex-col border-l border-gray-200">
 		<div class="flex items-center justify-between border-b border-gray-200 p-4">
 			<select
 				bind:value={selectedLanguage}
 				onchange={() => changeLangFunc(selectedLanguage)}
-				class="rounded-md border border-gray-300 bg-white px-3 py-1 text-sm"
+				class="rounded-md border border-gray-300 bg-white px-3 py-1 text-sm text-gray-900"
 			>
 				<option>C++</option>
 				<option>python</option>
@@ -172,7 +172,7 @@
 
 		<!-- Monaco Code Editor -->
 		<div class="flex-1 overflow-auto p-4">
-			<MonacoEditor bind:value={sampleCode} language={selectedLanguage} theme="vs-dark" />
+			<MonacoEditor bind:value={sampleCode} language={selectedLanguage} theme="hc-black" />
 		</div>
 
 		<!-- Test Results -->
