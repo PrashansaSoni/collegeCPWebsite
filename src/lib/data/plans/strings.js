@@ -10,10 +10,8 @@ export default {
 					difficulty: 'Medium',
 					platform: 'leetcode',
 					url: 'https://leetcode.com/problems/number-of-provinces/ ',
-					githubUrl:
-						'https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Graph/BFS_DFS/Number%20of%20Provinces.cpp',
-					youtubeUrl:
-						'https://www.youtube.com/watch?v=70LNE8RMPNc&list=PLry9FeA3DJcGiIxITQGVJQgtLF8-XB5J0&index=1&t=116s',
+					githubUrl: '#',
+					youtubeUrl: '#',
 					codeUrl: '/code/number-of-provinces'
 				}
 			]
