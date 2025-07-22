@@ -13,7 +13,6 @@ export default {
 					githubUrl: '#',
 					youtubeUrl: '#',
 					codeUrl: '/code/number-of-provinces'
-<<<<<<< HEAD
 				},
 				{
 					name: 'Reverse Words in a String',
@@ -69,9 +68,8 @@ export default {
 
 				
 
-=======
+
 				}
->>>>>>> 7bbcf9dc52e50177a0d083ed46250f645f28b2ed
 			]
 		},
 		{
@@ -106,7 +104,7 @@ export default {
 					githubUrl: '# ',
 					youtubeUrl: '#',
 					codeUrl: '#'
-<<<<<<< HEAD
+
 				},
 				{
 					name: 'Valid Anagram',
@@ -140,9 +138,9 @@ export default {
 				},
 				
 
-=======
+
 				}
->>>>>>> 7bbcf9dc52e50177a0d083ed46250f645f28b2ed
+
 			]
 		}
 	]
