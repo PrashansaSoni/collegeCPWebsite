@@ -2,7 +2,7 @@
 	{
 		"url": "/strings.png",
 		"Title": "strings",
-		"Description": "Strings are sequences of characters used to store and manipulate text, such as words, sentences, or symbols.string problems often involve tasks like searching, matching, modifying, or analyzing text patterns efficiently.",
+		"Description": "Strings are a data structure used for storing sequences of characters and solving problems related to text manipulation, pattern matching, and efficient searching.",
 		"name": "Strings "
 	},
 	{
