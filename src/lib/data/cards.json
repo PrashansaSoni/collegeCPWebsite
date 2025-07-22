@@ -1,5 +1,11 @@
 [
 	{
+		"url": "/strings.png",
+		"Title": "strings",
+		"Description": "Strings are sequences of characters used to store and manipulate text, such as words, sentences, or symbols.string problems often involve tasks like searching, matching, modifying, or analyzing text patterns efficiently.",
+		"name": "Strings "
+	},
+	{
 		"url": "/dp.png",
 		"Title": "dp",
 		"Description": "Dynamic programming is a method for solving problems by breaking them down into simpler subproblems and storing the results to avoid redundant calculations.",
