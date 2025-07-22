@@ -82,7 +82,7 @@ export default {
 				{
 					name: 'KMP Algorithm',
 					completed: false,
-					difficulty: 'hard',
+					difficulty: 'Hard',
 					platform: 'gfg',
 					url: 'https://www.geeksforgeeks.org/problems/search-pattern0205/1',
 					githubUrl: '#',
@@ -92,7 +92,7 @@ export default {
 				{
 					name: 'Minimum Insertion Steps to Make a String Palindrome',
 					completed: false,
-					difficulty: 'hard',
+					difficulty: 'Hard',
 					platform: 'leetcode',
 					url: 'https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/description/',
 					githubUrl: '#',
