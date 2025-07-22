@@ -1,0 +1,47 @@
+[
+	{
+		"url": "/strings.png",
+		"Title": "strings",
+		"Description": "Strings are sequences of characters used to store and manipulate text, such as words, sentences, or symbols.string problems often involve tasks like searching, matching, modifying, or analyzing text patterns efficiently.",
+		"name": "Strings "
+	},
+	{
+		"url": "/dp.png",
+		"Title": "dp",
+		"Description": "Dynamic programming is a method for solving problems by breaking them down into simpler subproblems and storing the results to avoid redundant calculations.",
+		"name": "Dynamic Programming"
+	},
+	{
+		"url": "/graph.png",
+		"Title": "graph",
+		"Description": "A graph is a collection of nodes (vertices) and edges that connect pairs of nodes. It is used to represent relationships or connections between objects.",
+		"name": "Graph"
+	},
+	{
+		"url": "/greedy.png",
+		"Title": "greedy",
+		"Description": "Greedy is a problem-solving algorithm that makes a locally optimal choice at each step, hoping that these local choices lead to a globally optimal solution.",
+		"name": "Greedy Algorithm"
+	},
+	{
+		"url": "/backtracking.jpg",
+		"Title": "backtracking",
+		"Description": "Backtracking is a problem-solving algorithm that incrementally builds candidates for solutions and abandons them if they are not valid or lead to a dead end.",
+		"name": "Backtracking"
+	},
+	{
+		"url": "/recursion.png",
+		"Title": "Recursion",
+		"Description": "Recursion is a method where the solution to a problem depends on solutions to smaller instances of the same problem."
+	},
+	{
+		"url": "/stack.jpeg",
+		"Title": "Stack",
+		"Description": "A stack is a linear data structure that follows the Last In First Out (LIFO) principle, where the last element added is the first one to be removed."
+	},
+	{
+		"url": "/queue.jpeg",
+		"Title": "Queue",
+		"Description": "A queue is a linear data structure that follows the First In First Out (FIFO) principle, where the first element added is the first one to be removed."
+	}
+]
