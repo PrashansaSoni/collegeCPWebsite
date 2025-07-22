@@ -1,5 +1,5 @@
 export default {
-	title: 'Strings',
+	title: 'Strings ',
 	sections: [
 		{
 			name: 'Strings I',
@@ -19,7 +19,7 @@ export default {
 					completed: false,
 					difficulty: 'Medium',
 					platform: 'leetcode',
-					url: 'https://leetcode.com/problems/reverse-words-in-a-string/description/ ',
+					url: 'https://leetcode.com/problems/reverse-words-in-a-string/description/',
 					githubUrl: '#',
 					youtubeUrl: '#',
 					codeUrl: '#'
@@ -63,12 +63,6 @@ export default {
 					githubUrl: '#',
 					youtubeUrl: '#',
 					codeUrl: '#'
-				},
-
-
-				
-
-
 				}
 			]
 		},
@@ -80,8 +74,8 @@ export default {
 					completed: false,
 					difficulty: 'easy',
 					platform: 'leetcode',
-					url: ' https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/',
-					githubUrl: '# ',
+					url: 'https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/',
+					githubUrl: '#',
 					youtubeUrl: '#',
 					codeUrl: '#'
 				},
@@ -91,7 +85,7 @@ export default {
 					difficulty: 'hard',
 					platform: 'gfg',
 					url: 'https://www.geeksforgeeks.org/problems/search-pattern0205/1',
-					githubUrl: '# ',
+					githubUrl: '#',
 					youtubeUrl: '#',
 					codeUrl: '#'
 				},
@@ -100,19 +94,18 @@ export default {
 					completed: false,
 					difficulty: 'hard',
 					platform: 'leetcode',
-					url: ' https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/',
-					githubUrl: '# ',
+					url: 'https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/description/',
+					githubUrl: '#',
 					youtubeUrl: '#',
 					codeUrl: '#'
-
 				},
 				{
 					name: 'Valid Anagram',
 					completed: false,
 					difficulty: 'easy',
 					platform: 'leetcode',
-					url: ' https://leetcode.com/problems/valid-anagram/description/',
-					githubUrl: '# ',
+					url: 'https://leetcode.com/problems/valid-anagram/description/',
+					githubUrl: '#',
 					youtubeUrl: '#',
 					codeUrl: '#'
 				},
@@ -122,7 +115,7 @@ export default {
 					difficulty: 'Medium',
 					platform: 'leetcode',
 					url: 'https://leetcode.com/problems/count-and-say/description/',
-					githubUrl: '# ',
+					githubUrl: '#',
 					youtubeUrl: '#',
 					codeUrl: '#'
 				},
@@ -132,15 +125,10 @@ export default {
 					difficulty: 'Medium',
 					platform: 'leetcode',
 					url: 'https://leetcode.com/problems/compare-version-numbers/description/',
-					githubUrl: '# ',
+					githubUrl: '#',
 					youtubeUrl: '#',
 					codeUrl: '#'
-				},
-				
-
-
 				}
-
 			]
 		}
 	]
