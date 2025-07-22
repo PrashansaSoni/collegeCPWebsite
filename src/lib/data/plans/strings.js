@@ -37,7 +37,7 @@ export default {
 				{
 					name: 'Roman to Integer',
 					completed: false,
-					difficulty: 'easy',
+					difficulty: 'Easy',
 					platform: 'leetcode',
 					url: 'https://leetcode.com/problems/roman-to-integer/description/',
 					githubUrl: '#',
@@ -57,7 +57,7 @@ export default {
 				{
 					name: 'Longest Common Prefix',
 					completed: false,
-					difficulty: 'easy',
+					difficulty: 'Easy',
 					platform: 'leetcode',
 					url: 'https://leetcode.com/problems/longest-common-prefix/description/',
 					githubUrl: '#',
@@ -72,7 +72,7 @@ export default {
 				{
 					name: 'Find the Index of the First Occurrence in a String',
 					completed: false,
-					difficulty: 'easy',
+					difficulty: 'Easy',
 					platform: 'leetcode',
 					url: 'https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/',
 					githubUrl: '#',
@@ -102,7 +102,7 @@ export default {
 				{
 					name: 'Valid Anagram',
 					completed: false,
-					difficulty: 'easy',
+					difficulty: 'Easy',
 					platform: 'leetcode',
 					url: 'https://leetcode.com/problems/valid-anagram/description/',
 					githubUrl: '#',
