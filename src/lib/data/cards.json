@@ -38,11 +38,26 @@
 	{
 		"url": "/stack.jpeg",
 		"Title": "Stack",
-		"Description": "A stack is a linear data structure that follows the Last In First Out (LIFO) principle, where the last element added is the first one to be removed."
+		"Description": "A stack is a linear data structure that follows the Last In First Out (LIFO) principle, where the last element added is the first one to be removed.",
+		"name": "Stack"
 	},
 	{
 		"url": "/queue.jpeg",
 		"Title": "Queue",
-		"Description": "A queue is a linear data structure that follows the First In First Out (FIFO) principle, where the first element added is the first one to be removed."
+		"Description": "A queue is a linear data structure that follows the First In First Out (FIFO) principle, where the first element added is the first one to be removed.",
+		"name": "Queue"
+	},
+	{
+		"url": "/array.jpeg",
+		"Title": "Array",
+		"Description": "A queue is a linear data structure that follows the First In First Out (FIFO) principle, where the first element added is the first one to be removed.",
+		"name": "Array"
+	},
+	{
+		"url": "/linkedlist.jpeg",
+		"Title": "Array",
+		"Description": "A queue is a linear data structure that follows the First In First Out (FIFO) principle, where the first element added is the first one to be removed.",
+		"name": "Linked List"
 	}
+
 ]
