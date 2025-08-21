@@ -1,4 +1,10 @@
 import { fail, redirect } from '@sveltejs/kit';
+
+export async function load({ params, locals }) {
+	if (locals.user) {
+		throw redirect(302, '/profile');
+	}
+}
 export const actions = {
 	register: async ({ locals, request }) => {
 		console.log('Register action triggered');

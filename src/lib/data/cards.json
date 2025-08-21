@@ -3,61 +3,90 @@
 		"url": "/strings.png",
 		"Title": "strings",
 		"Description": "Strings are a data structure used for storing sequences of characters and solving problems related to text manipulation, pattern matching, and efficient searching.",
-		"name": "Strings "
+		"name": "Strings ",
+		"total": 12,
+		"solved": 0,
+		"categories": 2
 	},
 	{
 		"url": "/dp.png",
 		"Title": "dp",
 		"Description": "Dynamic programming is a method for solving problems by breaking them down into simpler subproblems and storing the results to avoid redundant calculations.",
-		"name": "Dynamic Programming"
+		"name": "Dynamic Programming",
+		"total": 28,
+		"solved": 0,
+		"categories": 5
 	},
 	{
 		"url": "/graph.png",
 		"Title": "graph",
 		"Description": "A graph is a collection of nodes (vertices) and edges that connect pairs of nodes. It is used to represent relationships or connections between objects.",
-		"name": "Graph"
+		"name": "Graph",
+		"total": 47,
+		"solved": 0,
+		"categories": 7
 	},
 	{
 		"url": "/greedy.png",
 		"Title": "greedy",
 		"Description": "Greedy is a problem-solving algorithm that makes a locally optimal choice at each step, hoping that these local choices lead to a globally optimal solution.",
-		"name": "Greedy Algorithm"
+		"name": "Greedy Algorithm",
+		"total": 11,
+		"solved": 0,
+		"categories": 1
 	},
 	{
 		"url": "/backtracking.jpg",
 		"Title": "backtracking",
 		"Description": "Backtracking is a problem-solving algorithm that incrementally builds candidates for solutions and abandons them if they are not valid or lead to a dead end.",
-		"name": "Backtracking"
+		"name": "Backtracking",
+		"total": 7,
+		"solved": 0,
+		"categories": 2
 	},
 	{
 		"url": "/recursion.png",
 		"Title": "recursion",
 		"Description": "Recursion is a method where the solution to a problem depends on solutions to smaller instances of the same problem.",
-		"name": "Recursion"
+		"name": "Recursion",
+		"total": 0,
+		"solved": 0,
+		"categories": 0
 	},
 	{
 		"url": "/stack.jpeg",
 		"Title": "stack",
 		"Description": "A stack is a linear data structure that follows the Last In First Out (LIFO) principle, where the last element added is the first one to be removed.",
-		"name": "Stack"
+		"name": "Stack",
+		"total": 11,
+		"solved": 0,
+		"categories": 2
 	},
 	{
 		"url": "/queue.jpeg",
 		"Title": "queue",
 		"Description": "A queue is a linear data structure that follows the First In First Out (FIFO) principle, where the first element added is the first one to be removed.",
-		"name": "Queue"
+		"name": "Queue",
+		"total": 7,
+		"solved": 0,
+		"categories": 2
 	},
 	{
 		"url": "/array.png",
 		"Title": "array",
 		"Description": "An array is a linear data structure that stores elements in contiguous memory locations, allowing direct access using an index.",
-		"name": "Array"
+		"name": "Array",
+		"total": 12,
+		"solved": 0,
+		"categories": 2
 	},
 	{
 		"url": "/linkedlist.png",
 		"Title": "linkedlist",
 		"Description": "A linked list is a dynamic linear data structure in which each element (node) contains data and a reference (pointer) to the next node, enabling efficient memory usage and flexible insertions or deletions without shifting elements.",
-		"name": "Linked List"
+		"name": "Linked List",
+		"total": 12,
+		"solved": 0,
+		"categories": 2
 	}
-
 ]
