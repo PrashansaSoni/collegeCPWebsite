@@ -14,20 +14,27 @@
 </script>
 
 <div
-	class="relative my-6 flex w-96 flex-col rounded-lg border border-gray-700 bg-gray-800 shadow-md"
+	class="relative my-6 flex w-96 flex-col rounded-xl border border-gray-700 bg-gray-800 shadow-lg dark:border-gray-700 dark:bg-gray-800"
 >
-	<div class="relative m-2.5 h-56 overflow-hidden rounded-md text-white">
+	<!-- Image container -->
+	<div class="relative m-3 h-56 overflow-hidden rounded-lg">
 		<img src={url} alt="card-image" class="h-full w-full object-cover" />
 	</div>
-	<div class="p-4">
-		<h6 class="mb-2 text-xl font-semibold text-white">{name}</h6>
-		<p class="leading-normal font-light text-gray-300">
+
+	<!-- Content -->
+	<div class="flex-1 px-6 py-4">
+		<h6 class="mb-3 text-xl font-bold text-gray-900 dark:text-white">
+			{name}
+		</h6>
+		<p class="text-sm leading-relaxed text-gray-600 dark:text-gray-300">
 			{Description}
 		</p>
 	</div>
-	<div class="mt-2 px-4 pt-0 pb-4">
+
+	<!-- Button -->
+	<div class="px-6 pb-6">
 		<button
-			class="w-full rounded-md border border-transparent bg-indigo-600 px-4 py-2 text-center text-sm text-white shadow transition-all hover:bg-indigo-500 focus:bg-indigo-500"
+			class="to-grey-600 w-full rounded-lg bg-blue-400 px-6 py-3 text-sm font-semibold text-white shadow-md transition-all duration-200 hover:bg-blue-900 focus:ring-4 focus:ring-indigo-300 focus:outline-none dark:focus:ring-indigo-800"
 			type="button"
 			onclick={() => handleClick(Title)}
 		>
