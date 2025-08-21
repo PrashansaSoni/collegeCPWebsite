@@ -53,8 +53,10 @@
 		"@oslojs/encoding": "^1.1.0",
 		"axios": "^1.10.0",
 		"drizzle-orm": "^0.40.0",
+		"lucide-svelte": "^0.540.0",
 		"marked": "^15.0.12",
 		"monaco-editor": "^0.52.2",
+		"pocketbase": "^0.26.2",
 		"postgres": "^3.4.5"
 	}
 }
