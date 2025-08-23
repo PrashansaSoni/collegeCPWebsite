@@ -108,7 +108,7 @@
 
 		<!-- Categories Grid -->
 		<section class="mt-6 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-			{#each categories as c}
+			{#each categories as c (c.key)}
 				<div
 					class="rounded-lg border border-gray-200 bg-white p-4 shadow-sm transition hover:shadow-md dark:border-gray-800 dark:bg-gray-900"
 				>

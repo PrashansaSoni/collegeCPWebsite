@@ -97,7 +97,12 @@
 					class="flex items-center gap-2 rounded-lg bg-slate-900 px-2 py-1.5 text-sm text-slate-100 ring-1 ring-white/10"
 				>
 					<span class="inline-flex items-center gap-4">
-						<img src="/stopwatch.svg" class="h-4 w-4 scale-150 text-cyan-400" aria-hidden="true" />
+						<img
+							src="/stopwatch.svg"
+							class="h-4 w-4 scale-150 text-cyan-400"
+							alt="stopwatch"
+							aria-hidden="true"
+						/>
 						<span class="tabular-nums"
 							>{formatMs(running ? elapsedMs + (Date.now() - lastStart) : elapsedMs)}
 						</span>
@@ -130,7 +135,7 @@
 				</button>
 
 				<button
-					class="inline-flex items-center gap-2 rounded-lg bg-emerald-600 px-3 py-2 text-sm font-semibold text-white ring-1 ring-emerald-600/20 transition-colors ring-inset hover:bg-emerald-700"
+					class="inline-flex items-center gap-2 rounded-lg bg-emerald-600 px-3 py-2 text-sm font-semibold text-white ring-1 ring-emerald-600/20 transition-colors ring-inset hover:bg-green-400"
 					onclick={handleLogout}
 					aria-label="Sign Out"
 				>
@@ -165,9 +170,9 @@
 			aria-expanded={mobileOpen}
 		>
 			{#if mobileOpen}
-				<img src="/close.svg" class="h-5 w-5" alt="" />
+				<img src="/close.png" class="h-5 w-5" alt="" />
 			{:else}
-				<img src="/menu.svg" class="h-5 w-5" alt="" />
+				<img src="/menu.png" class="h-5 w-5" alt="" />
 			{/if}
 		</button>
 	</div>
