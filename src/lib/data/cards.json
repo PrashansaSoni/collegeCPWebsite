@@ -49,9 +49,9 @@
 		"Title": "recursion",
 		"Description": "Recursion is a method where the solution to a problem depends on solutions to smaller instances of the same problem.",
 		"name": "Recursion",
-		"total": 0,
+		"total": 26,
 		"solved": 0,
-		"categories": 0
+		"categories": 3
 	},
 	{
 		"url": "/stack.jpeg",

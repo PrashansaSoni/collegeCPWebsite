@@ -148,6 +148,16 @@
 												>
 													<img src="/gfg.png" alt="GeeksforGeeks" class="h-5 w-5" />
 												</a>
+											{:else if problem.platform === 'codeforces'}
+												<a
+													href={problem.url}
+													target="_blank"
+													rel="noopener noreferrer"
+													title="View on GeeksforGeeks"
+													class="flex h-7 w-7 items-center justify-center transition-all duration-200 hover:scale-130"
+												>
+													<img src="/codeforces.png" alt="GeeksforGeeks" class="h-5 w-5" />
+												</a>
 											{/if}
 
 											{#if problem.githubUrl}
