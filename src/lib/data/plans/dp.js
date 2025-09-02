@@ -13,7 +13,7 @@ export default {
 					githubUrl: '#',
 					youtubeUrl:
 						'https://www.youtube.com/watch?v=ntCGbPMeqgg&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go&index=5&t=2103s',
-					codeUrl: '#'
+					codeUrl: '/problem/1'
 				},
 				{
 					name: 'Subset Sum Problem',
@@ -24,7 +24,7 @@ export default {
 					githubUrl: '#',
 					youtubeUrl:
 						'https://www.youtube.com/watch?v=_gPcYovP7wc&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go&index=7&t=1425s',
-					codeUrl: '#'
+					codeUrl: '/problem/2'
 				},
 				{
 					name: 'Partition Equal Subset Sum',
@@ -35,7 +35,7 @@ export default {
 					githubUrl: '#',
 					youtubeUrl:
 						'https://www.youtube.com/watch?v=UmMh7xp07kY&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go&index=8',
-					codeUrl: '#'
+					codeUrl: '/problem/3'
 				},
 				{
 					name: 'Count subset sum with given sum',
@@ -46,7 +46,7 @@ export default {
 					githubUrl: '#',
 					youtubeUrl:
 						'https://www.youtube.com/watch?v=F7wqWbqYn9g&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go&index=9&t=403s',
-					codeUrl: '#'
+					codeUrl: '/problem/4'
 				},
 				{
 					name: 'Minimum subset difference',
@@ -57,7 +57,7 @@ export default {
 					githubUrl: '#',
 					youtubeUrl:
 						'https://www.youtube.com/watch?v=F7wqWbqYn9g&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go&index=9&t=403s',
-					codeUrl: '#'
+					codeUrl: '/problem/5'
 				},
 				{
 					name: 'Subset Sum with given difference ',
@@ -68,7 +68,7 @@ export default {
 					githubUrl: '#',
 					youtubeUrl:
 						'https://www.youtube.com/watch?v=F7wqWbqYn9g&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go&index=9&t=403s',
-					codeUrl: '#'
+					codeUrl: '/problem/6'
 				},
 				{
 					name: 'Target Sum',
@@ -79,7 +79,7 @@ export default {
 					githubUrl: '#',
 					youtubeUrl:
 						'https://www.youtube.com/watch?v=Hw6Ygp3JBYw&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go&index=12',
-					codeUrl: '#'
+					codeUrl: '/problem/7'
 				}
 			]
 		},
@@ -94,7 +94,7 @@ export default {
 					url: 'https://www.geeksforgeeks.org/problems/knapsack-with-duplicate-items4201/1',
 					githubUrl: '#',
 					youtubeUrl: '#',
-					codeUrl: '#'
+					codeUrl: '/problem/8'
 				},
 				{
 					name: 'Rod Cutting',
@@ -104,7 +104,7 @@ export default {
 					url: 'https://www.geeksforgeeks.org/problems/rod-cutting0840/1',
 					githubUrl: '#',
 					youtubeUrl: '#',
-					codeUrl: '#'
+					codeUrl: '/problem/9'
 				},
 				{
 					name: 'Coin Change (max number of ways)',
@@ -114,7 +114,7 @@ export default {
 					url: 'https://leetcode.com/problems/coin-change-ii/description/',
 					githubUrl: '#',
 					youtubeUrl: '#',
-					codeUrl: '#'
+					codeUrl: '/problem/10'
 				},
 				{
 					name: 'Coin Change (min number of coins)',
@@ -124,7 +124,7 @@ export default {
 					url: 'https://leetcode.com/problems/coin-change/description/',
 					githubUrl: '#',
 					youtubeUrl: '#',
-					codeUrl: '#'
+					codeUrl: '/problem/11'
 				}
 			]
 		},
@@ -139,7 +139,7 @@ export default {
 					url: 'https://leetcode.com/problems/longest-common-subsequence/description/',
 					githubUrl: '#',
 					youtubeUrl: '#',
-					codeUrl: '#'
+					codeUrl: '/problem/12'
 				},
 				{
 					name: 'Longest Common Substring',
@@ -149,7 +149,7 @@ export default {
 					url: 'https://www.geeksforgeeks.org/problems/longest-common-substring1452/1',
 					githubUrl: '#',
 					youtubeUrl: '#',
-					codeUrl: '#'
+					codeUrl: '/problem/13'
 				},
 				{
 					name: 'Printing Longest Common Subsequence',
@@ -159,7 +159,7 @@ export default {
 					url: 'https://www.geeksforgeeks.org/problems/printing-longest-increasing-subsequence/1',
 					githubUrl: '#',
 					youtubeUrl: '#',
-					codeUrl: '#'
+					codeUrl: '/problem/14'
 				},
 				{
 					name: 'Shortest Common supersequence',
@@ -169,7 +169,7 @@ export default {
 					url: 'https://leetcode.com/problems/shortest-common-supersequence/description/',
 					githubUrl: '#',
 					youtubeUrl: '#',
-					codeUrl: '#'
+					codeUrl: '/problem/15'
 				},
 				{
 					name: 'Minimum no of insertion and deletion to convert string a to string b',
@@ -179,7 +179,7 @@ export default {
 					url: 'https://leetcode.com/problems/delete-operation-for-two-strings/description/',
 					githubUrl: '#',
 					youtubeUrl: '#',
-					codeUrl: '#'
+					codeUrl: '/problem/16'
 				},
 				{
 					name: 'Longest palindromic subsequence',
@@ -189,7 +189,7 @@ export default {
 					url: 'https://leetcode.com/problems/longest-palindromic-subsequence/description/',
 					githubUrl: '#',
 					youtubeUrl: '#',
-					codeUrl: '#'
+					codeUrl: '/problem/17'
 				},
 				{
 					name: 'Minimum number of deletions to make palindrome',
@@ -199,7 +199,7 @@ export default {
 					url: 'https://www.geeksforgeeks.org/problems/minimum-deletitions1648/1',
 					githubUrl: '#',
 					youtubeUrl: '#',
-					codeUrl: '#'
+					codeUrl: '/problem/18'
 				},
 				{
 					name: 'Print Shortest Common supersequence',
@@ -209,7 +209,7 @@ export default {
 					url: '#',
 					githubUrl: '#',
 					youtubeUrl: '#',
-					codeUrl: '#'
+					codeUrl: '/problem/19'
 				},
 				{
 					name: 'Longest repeating subsequence',
@@ -219,7 +219,7 @@ export default {
 					url: 'https://www.geeksforgeeks.org/problems/longest-repeating-subsequence2004/1',
 					githubUrl: '#',
 					youtubeUrl: '#',
-					codeUrl: '#'
+					codeUrl: '/problem/20'
 				},
 				{
 					name: 'Sequence pattern matching',
@@ -229,7 +229,7 @@ export default {
 					url: '#',
 					githubUrl: '#',
 					youtubeUrl: '#',
-					codeUrl: '#'
+					codeUrl: '/problem/21'
 				},
 				{
 					name: 'Minimum number of insetion to make a string palindrome',
@@ -239,7 +239,7 @@ export default {
 					url: 'https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/description/',
 					githubUrl: '#',
 					youtubeUrl: '#',
-					codeUrl: '#'
+					codeUrl: '/problem/22'
 				}
 			]
 		},
@@ -254,7 +254,7 @@ export default {
 					url: 'https://www.geeksforgeeks.org/problems/matrix-chain-multiplication0303/1',
 					githubUrl: '#',
 					youtubeUrl: 'https://www.youtube.com/watch?v=O_G2hVZvNBg',
-					codeUrl: '#'
+					codeUrl: '/problem/23'
 				},
 				{
 					name: 'Palindrome Partitioning',
@@ -264,7 +264,7 @@ export default {
 					url: 'https://leetcode.com/problems/palindrome-partitioning/',
 					githubUrl: '#',
 					youtubeUrl: '#',
-					codeUrl: '#'
+					codeUrl: '/problem/24'
 				},
 				{
 					name: 'Evaluate Expression to True Boolean Parenthesization',
@@ -274,7 +274,7 @@ export default {
 					url: 'https://www.geeksforgeeks.org/problems/boolean-parenthesization5610/1',
 					githubUrl: '#',
 					youtubeUrl: '#',
-					codeUrl: '#'
+					codeUrl: '/problem/25'
 				},
 				{
 					name: 'Scrambled String',
@@ -284,7 +284,7 @@ export default {
 					url: 'https://leetcode.com/problems/scramble-string/',
 					githubUrl: '#',
 					youtubeUrl: '#',
-					codeUrl: '#'
+					codeUrl: '/problem/26'
 				},
 				{
 					name: 'Egg Dropping Problem',
@@ -294,7 +294,7 @@ export default {
 					url: 'https://leetcode.com/problems/super-egg-drop/',
 					githubUrl: '#',
 					youtubeUrl: '#',
-					codeUrl: '#'
+					codeUrl: '/problem/27'
 				}
 			]
 		},
@@ -307,7 +307,8 @@ export default {
 					solution: true,
 					difficulty: 'Hard',
 					platform: 'leetcode',
-					url: 'https://leetcode.com/problems/binary-tree-maximum-path-sum/ '
+					url: 'https://leetcode.com/problems/binary-tree-maximum-path-sum/ ',
+					codeUrl: '/problem/28'
 				}
 			]
 		}

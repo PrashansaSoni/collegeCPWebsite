@@ -12,7 +12,7 @@ export default {
 					url: 'https://leetcode.com/problems/reverse-linked-list/description/ ',
 					githubUrl: '#',
 					youtubeUrl: '#',
-					codeUrl: '#'
+					codeUrl: '/problem/100'
 				},
 				{
 					name: 'Middle of the Linked List',
@@ -22,7 +22,7 @@ export default {
 					url: 'https://leetcode.com/problems/middle-of-the-linked-list/description/',
 					githubUrl: '#',
 					youtubeUrl: '#',
-					codeUrl: '#'
+					codeUrl: '/problem/101'
 				},
 				{
 					name: 'Merge Two Sorted Lists',
@@ -32,7 +32,7 @@ export default {
 					url: 'https://leetcode.com/problems/merge-two-sorted-lists/description/',
 					githubUrl: '#',
 					youtubeUrl: '#',
-					codeUrl: '#'
+					codeUrl: '/problem/102'
 				},
 				{
 					name: ' Remove Nth Node From End of List',
@@ -42,7 +42,7 @@ export default {
 					url: 'https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/',
 					githubUrl: '#',
 					youtubeUrl: '#',
-					codeUrl: '#'
+					codeUrl: '/problem/103'
 				},
 				{
 					name: 'Add Two Numbers',
@@ -52,7 +52,7 @@ export default {
 					url: 'https://leetcode.com/problems/add-two-numbers/description/',
 					githubUrl: '#',
 					youtubeUrl: '#',
-					codeUrl: '#'
+					codeUrl: '/problem/104'
 				},
 				{
 					name: 'Delete Node in a Linked List',
@@ -62,7 +62,7 @@ export default {
 					url: 'https://leetcode.com/problems/delete-node-in-a-linked-list/description/',
 					githubUrl: '#',
 					youtubeUrl: '#',
-					codeUrl: '#'
+					codeUrl: '/problem/105'
 				}
 			]
 		},
@@ -77,7 +77,7 @@ export default {
 					url: 'https://leetcode.com/problems/intersection-of-two-linked-lists/description/',
 					githubUrl: '#',
 					youtubeUrl: '#',
-					codeUrl: '#'
+					codeUrl: '/problem/106'
 				},
 				{
 					name: ' Linked List Cycle',
@@ -87,7 +87,7 @@ export default {
 					url: 'https://leetcode.com/problems/linked-list-cycle/description/',
 					githubUrl: '#',
 					youtubeUrl: '#',
-					codeUrl: '#'
+					codeUrl: '/problem/107'
 				},
 				{
 					name: 'Reverse Nodes in k-Group',
@@ -97,7 +97,7 @@ export default {
 					url: ' Reverse Nodes in k-Group',
 					githubUrl: '#',
 					youtubeUrl: '#',
-					codeUrl: '#'
+					codeUrl: '/problem/108'
 				},
 				{
 					name: 'Palindrome Linked List',
@@ -107,7 +107,7 @@ export default {
 					url: 'https://leetcode.com/problems/palindrome-linked-list/description/',
 					githubUrl: '#',
 					youtubeUrl: '#',
-					codeUrl: '#'
+					codeUrl: '/problem/109'
 				},
 				{
 					name: ' Linked List Cycle II',
@@ -117,7 +117,7 @@ export default {
 					url: 'https://leetcode.com/problems/linked-list-cycle-ii/description/',
 					githubUrl: '#',
 					youtubeUrl: '#',
-					codeUrl: '#'
+					codeUrl: '/problem/110'
 				},
 				{
 					name: ' Rotate List',
@@ -127,10 +127,9 @@ export default {
 					url: 'https://leetcode.com/problems/rotate-list/description/',
 					githubUrl: '#',
 					youtubeUrl: '#',
-					codeUrl: '#'
+					codeUrl: '/problem/111'
 				}
 			]
 		}
-        
 	]
 };

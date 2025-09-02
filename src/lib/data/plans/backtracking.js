@@ -12,7 +12,7 @@ export default {
 					url: 'https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1',
 					githubUrl: '#',
 					youtubeUrl: '#',
-					codeUrl: '#'
+					codeUrl: './problem/1'
 				},
 				{
 					name: 'Rat in a maze',
@@ -22,7 +22,7 @@ export default {
 					url: 'https://www.geeksforgeeks.org/problems/rat-in-a-maze-problem/1&selectedLang=python3',
 					githubUrl: '#',
 					youtubeUrl: '#',
-					codeUrl: '#'
+					codeUrl: './problem/2'
 				},
 				{
 					name: 'N Queen',
@@ -32,7 +32,7 @@ export default {
 					url: 'https://leetcode.com/problems/n-queens/description/',
 					githubUrl: '#',
 					youtubeUrl: '#',
-					codeUrl: '#'
+					codeUrl: './problem/3'
 				},
 				{
 					name: 'N Queen - II',
@@ -42,7 +42,7 @@ export default {
 					url: 'https://leetcode.com/problems/n-queens-ii/description/',
 					githubUrl: '#',
 					youtubeUrl: '#',
-					codeUrl: '#'
+					codeUrl: './problem/4'
 				},
 				{
 					name: 'Soduku solver',
@@ -52,7 +52,7 @@ export default {
 					url: 'https://leetcode.com/problems/sudoku-solver/description/',
 					githubUrl: '#',
 					youtubeUrl: '#',
-					codeUrl: '#'
+					codeUrl: './problem/5'
 				},
 				{
 					name: 'Hamiltonian path',
@@ -62,7 +62,7 @@ export default {
 					url: 'https://www.geeksforgeeks.org/problems/hamiltonian-path2522/1',
 					githubUrl: '#',
 					youtubeUrl: '#',
-					codeUrl: '#'
+					codeUrl: './problem/6'
 				},
 				{
 					name: 'Letter combination of a phone number ',
@@ -72,7 +72,7 @@ export default {
 					url: 'https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/',
 					githubUrl: '#',
 					youtubeUrl: '#',
-					codeUrl: '#'
+					codeUrl: './problem/7'
 				}
 			]
 		}

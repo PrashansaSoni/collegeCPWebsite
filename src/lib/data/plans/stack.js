@@ -12,7 +12,7 @@ export default {
 					url: 'https://www.geeksforgeeks.org/problems/implement-stack-using-array/1 ',
 					githubUrl: '#',
 					youtubeUrl: '#',
-					codeUrl: '#'
+					codeUrl: '/problem/119'
 				},
 				{
 					name: ' Implement Stack using Queues',
@@ -22,7 +22,7 @@ export default {
 					url: 'https://leetcode.com/problems/implement-stack-using-queues/description/',
 					githubUrl: '#',
 					youtubeUrl: '#',
-					codeUrl: '#'
+					codeUrl: '/problem/120'
 				},
 				{
 					name: 'Valid Parentheses',
@@ -32,7 +32,7 @@ export default {
 					url: 'https://leetcode.com/problems/valid-parentheses/description/',
 					githubUrl: '#',
 					youtubeUrl: '#',
-					codeUrl: '#'
+					codeUrl: '/problem/121'
 				},
 				{
 					name: 'Next Greater Element I',
@@ -42,7 +42,7 @@ export default {
 					url: 'https://leetcode.com/problems/next-greater-element-i/description/',
 					githubUrl: '#',
 					youtubeUrl: '#',
-					codeUrl: '#'
+					codeUrl: '/problem/122'
 				},
 				{
 					name: 'Sort a stack',
@@ -52,9 +52,8 @@ export default {
 					url: 'https://www.geeksforgeeks.org/problems/sort-a-stack/1',
 					githubUrl: '#',
 					youtubeUrl: '#',
-					codeUrl: '#'
-				},
-				
+					codeUrl: '/problem/123'
+				}
 			]
 		},
 		{
@@ -68,7 +67,7 @@ export default {
 					url: 'https://leetcode.com/problems/largest-rectangle-in-histogram/description/',
 					githubUrl: '#',
 					youtubeUrl: '#',
-					codeUrl: '#'
+					codeUrl: '/problem/124'
 				},
 				{
 					name: 'Sliding Window Maximum',
@@ -78,7 +77,7 @@ export default {
 					url: 'https://leetcode.com/problems/sliding-window-maximum/description/',
 					githubUrl: '#',
 					youtubeUrl: '#',
-					codeUrl: '#'
+					codeUrl: '/problem/125'
 				},
 				{
 					name: 'Min Stack',
@@ -88,7 +87,7 @@ export default {
 					url: 'https://leetcode.com/problems/min-stack/description/',
 					githubUrl: '#',
 					youtubeUrl: '#',
-					codeUrl: '#'
+					codeUrl: '/problem/126'
 				},
 				{
 					name: 'Online Stock Span',
@@ -98,7 +97,7 @@ export default {
 					url: 'https://leetcode.com/problems/online-stock-span/description/',
 					githubUrl: '#',
 					youtubeUrl: '#',
-					codeUrl: '#'
+					codeUrl: '/problem/127'
 				},
 				{
 					name: 'Maximum Frequency Stack',
@@ -108,7 +107,7 @@ export default {
 					url: 'https://leetcode.com/problems/maximum-frequency-stack/description/',
 					githubUrl: '#',
 					youtubeUrl: '#',
-					codeUrl: '#'
+					codeUrl: '/problem/128'
 				},
 				{
 					name: 'Maximum Height by Stacking Cuboids',
@@ -118,7 +117,7 @@ export default {
 					url: 'https://leetcode.com/problems/maximum-height-by-stacking-cuboids/description/',
 					githubUrl: '#',
 					youtubeUrl: '#',
-					codeUrl: '#'
+					codeUrl: '/problem/129'
 				}
 			]
 		}

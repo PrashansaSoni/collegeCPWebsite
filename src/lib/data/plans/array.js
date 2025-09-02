@@ -12,17 +12,17 @@ export default {
 					url: 'https://leetcode.com/problems/set-matrix-zeroes/description/ ',
 					githubUrl: '#',
 					youtubeUrl: '#',
-					codeUrl: '#'
+					codeUrl: './problem/1'
 				},
 				{
-					name: 'Pascal\'s Triangle',
+					name: "Pascal's Triangle",
 					completed: false,
 					difficulty: 'Easy',
 					platform: 'leetcode',
 					url: 'https://leetcode.com/problems/pascals-triangle/description/',
 					githubUrl: '#',
 					youtubeUrl: '#',
-					codeUrl: '#'
+					codeUrl: './problem/2'
 				},
 				{
 					name: 'Next Permutation',
@@ -32,7 +32,7 @@ export default {
 					url: 'https://leetcode.com/problems/next-permutation/description/',
 					githubUrl: '#',
 					youtubeUrl: '#',
-					codeUrl: '#'
+					codeUrl: './problem/3'
 				},
 				{
 					name: ' Maximum Subarray',
@@ -42,7 +42,7 @@ export default {
 					url: 'https://leetcode.com/problems/maximum-subarray/description/',
 					githubUrl: '#',
 					youtubeUrl: '#',
-					codeUrl: '#'
+					codeUrl: './problem/4'
 				},
 				{
 					name: 'Sort Colors',
@@ -52,7 +52,7 @@ export default {
 					url: 'https://leetcode.com/problems/sort-colors/description/',
 					githubUrl: '#',
 					youtubeUrl: '#',
-					codeUrl: '#'
+					codeUrl: './problem/5'
 				},
 				{
 					name: 'Best Time to Buy and Sell Stock',
@@ -62,7 +62,7 @@ export default {
 					url: 'https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/',
 					githubUrl: '#',
 					youtubeUrl: '#',
-					codeUrl: '#'
+					codeUrl: './problem/6'
 				}
 			]
 		},
@@ -77,7 +77,7 @@ export default {
 					url: 'https://leetcode.com/problems/rotate-image/description/',
 					githubUrl: '#',
 					youtubeUrl: '#',
-					codeUrl: '#'
+					codeUrl: './problem/7'
 				},
 				{
 					name: 'Merge Intervals',
@@ -87,7 +87,7 @@ export default {
 					url: 'https://leetcode.com/problems/merge-intervals/description/',
 					githubUrl: '#',
 					youtubeUrl: '#',
-					codeUrl: '#'
+					codeUrl: './problem/8'
 				},
 				{
 					name: 'Merge Sorted Array',
@@ -97,7 +97,7 @@ export default {
 					url: 'https://leetcode.com/problems/merge-sorted-array/description/',
 					githubUrl: '#',
 					youtubeUrl: '#',
-					codeUrl: '#'
+					codeUrl: './problem/9'
 				},
 				{
 					name: 'Find the Duplicate Number',
@@ -107,7 +107,7 @@ export default {
 					url: 'https://leetcode.com/problems/find-the-duplicate-number/description/',
 					githubUrl: '#',
 					youtubeUrl: '#',
-					codeUrl: '#'
+					codeUrl: './problem/10'
 				},
 				{
 					name: ' Search a 2D Matrix',
@@ -117,7 +117,7 @@ export default {
 					url: 'https://leetcode.com/problems/search-a-2d-matrix/description/',
 					githubUrl: '#',
 					youtubeUrl: '#',
-					codeUrl: '#'
+					codeUrl: './problem/11'
 				},
 				{
 					name: ' Pow(x, n)',
@@ -127,10 +127,9 @@ export default {
 					url: 'https://leetcode.com/problems/powx-n/description/',
 					githubUrl: '#',
 					youtubeUrl: '#',
-					codeUrl: '#'
+					codeUrl: './problem/12'
 				}
 			]
 		}
-        
 	]
 };

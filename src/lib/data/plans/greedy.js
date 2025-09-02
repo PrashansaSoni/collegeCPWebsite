@@ -12,7 +12,7 @@ export default {
 					url: 'https://leetcode.com/problems/assign-cookies/',
 					githubUrl: '#',
 					youtubeUrl: '#',
-					codeUrl: '#'
+					codeUrl: '/problem/1'
 				},
 				{
 					name: 'Fractional Knapsack',
@@ -22,7 +22,7 @@ export default {
 					url: 'https://www.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1',
 					githubUrl: '#',
 					youtubeUrl: '#',
-					codeUrl: '#'
+					codeUrl: '/problem/2'
 				},
 				{
 					name: 'Lemonade Change',
@@ -32,7 +32,7 @@ export default {
 					url: 'https://leetcode.com/problems/lemonade-change/',
 					githubUrl: '#',
 					youtubeUrl: '#',
-					codeUrl: '#'
+					codeUrl: '/problem/3'
 				},
 				{
 					name: 'Valid Parenthesis Checker',
@@ -42,7 +42,7 @@ export default {
 					url: 'https://leetcode.com/problems/valid-parenthesis-string/description/',
 					githubUrl: '#',
 					youtubeUrl: '#',
-					codeUrl: '#'
+					codeUrl: '/problem/4'
 				},
 				{
 					name: 'N meeting in a room',
@@ -52,7 +52,7 @@ export default {
 					url: 'https://www.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1',
 					githubUrl: '#',
 					youtubeUrl: '#',
-					codeUrl: '#'
+					codeUrl: '/problem/5'
 				},
 				{
 					name: 'Jump Game',
@@ -62,7 +62,7 @@ export default {
 					url: 'https://leetcode.com/problems/jump-game/description/',
 					githubUrl: '#',
 					youtubeUrl: '#',
-					codeUrl: '#'
+					codeUrl: '/problem/6'
 				},
 				{
 					name: 'Jump Game 2',
@@ -72,7 +72,7 @@ export default {
 					url: 'https://leetcode.com/problems/jump-game-ii/description/',
 					githubUrl: '#',
 					youtubeUrl: '#',
-					codeUrl: '#'
+					codeUrl: '/problem/7'
 				},
 				{
 					name: 'Candy',
@@ -82,7 +82,7 @@ export default {
 					url: 'https://leetcode.com/problems/candy/description/',
 					githubUrl: '#',
 					youtubeUrl: '#',
-					codeUrl: '#'
+					codeUrl: '/problem/8'
 				},
 				{
 					name: 'Insert Interval',
@@ -92,7 +92,7 @@ export default {
 					url: 'https://leetcode.com/problems/insert-interval/description/',
 					githubUrl: '#',
 					youtubeUrl: '#',
-					codeUrl: '#'
+					codeUrl: '/problem/9'
 				},
 				{
 					name: 'Merge Intervals',
@@ -102,7 +102,7 @@ export default {
 					url: 'https://leetcode.com/problems/merge-intervals/description/',
 					githubUrl: '#',
 					youtubeUrl: '#',
-					codeUrl: '#'
+					codeUrl: '/problem/10'
 				},
 				{
 					name: 'Non-overlapping Intervals',
@@ -112,7 +112,7 @@ export default {
 					url: 'https://leetcode.com/problems/non-overlapping-intervals/description/',
 					githubUrl: '#',
 					youtubeUrl: '#',
-					codeUrl: '#'
+					codeUrl: '/problem/11'
 				}
 			]
 		}

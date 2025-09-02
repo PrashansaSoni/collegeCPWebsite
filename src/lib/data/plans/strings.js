@@ -12,7 +12,7 @@ export default {
 					url: 'https://leetcode.com/problems/number-of-provinces/ ',
 					githubUrl: '#',
 					youtubeUrl: '#',
-					codeUrl: '/code/number-of-provinces'
+					codeUrl: '/problem/130'
 				},
 				{
 					name: 'Reverse Words in a String',
@@ -22,7 +22,7 @@ export default {
 					url: 'https://leetcode.com/problems/reverse-words-in-a-string/description/',
 					githubUrl: '#',
 					youtubeUrl: '#',
-					codeUrl: '#'
+					codeUrl: '/problem/131'
 				},
 				{
 					name: 'Longest Palindromic Substring',
@@ -32,7 +32,7 @@ export default {
 					url: 'https://leetcode.com/problems/longest-palindromic-substring/description/',
 					githubUrl: '#',
 					youtubeUrl: '#',
-					codeUrl: '#'
+					codeUrl: '/problem/132'
 				},
 				{
 					name: 'Roman to Integer',
@@ -42,7 +42,7 @@ export default {
 					url: 'https://leetcode.com/problems/roman-to-integer/description/',
 					githubUrl: '#',
 					youtubeUrl: '#',
-					codeUrl: '#'
+					codeUrl: '/problem/133'
 				},
 				{
 					name: 'String to Integer (atoi)',
@@ -52,7 +52,7 @@ export default {
 					url: 'https://leetcode.com/problems/string-to-integer-atoi/description/',
 					githubUrl: '#',
 					youtubeUrl: '#',
-					codeUrl: '#'
+					codeUrl: '/problem/134'
 				},
 				{
 					name: 'Longest Common Prefix',
@@ -62,7 +62,7 @@ export default {
 					url: 'https://leetcode.com/problems/longest-common-prefix/description/',
 					githubUrl: '#',
 					youtubeUrl: '#',
-					codeUrl: '#'
+					codeUrl: '/problem/135'
 				}
 			]
 		},
@@ -77,7 +77,7 @@ export default {
 					url: 'https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/',
 					githubUrl: '#',
 					youtubeUrl: '#',
-					codeUrl: '#'
+					codeUrl: '/problem/136'
 				},
 				{
 					name: 'KMP Algorithm',
@@ -87,7 +87,7 @@ export default {
 					url: 'https://www.geeksforgeeks.org/problems/search-pattern0205/1',
 					githubUrl: '#',
 					youtubeUrl: '#',
-					codeUrl: '#'
+					codeUrl: '/problem/137'
 				},
 				{
 					name: 'Minimum Insertion Steps to Make a String Palindrome',
@@ -97,7 +97,7 @@ export default {
 					url: 'https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/description/',
 					githubUrl: '#',
 					youtubeUrl: '#',
-					codeUrl: '#'
+					codeUrl: '/problem/138'
 				},
 				{
 					name: 'Valid Anagram',
@@ -107,7 +107,7 @@ export default {
 					url: 'https://leetcode.com/problems/valid-anagram/description/',
 					githubUrl: '#',
 					youtubeUrl: '#',
-					codeUrl: '#'
+					codeUrl: '/problem/139'
 				},
 				{
 					name: 'Count and Say',
@@ -117,7 +117,7 @@ export default {
 					url: 'https://leetcode.com/problems/count-and-say/description/',
 					githubUrl: '#',
 					youtubeUrl: '#',
-					codeUrl: '#'
+					codeUrl: '/problem/140'
 				},
 				{
 					name: 'Compare Version Numbers',
@@ -127,7 +127,7 @@ export default {
 					url: 'https://leetcode.com/problems/compare-version-numbers/description/',
 					githubUrl: '#',
 					youtubeUrl: '#',
-					codeUrl: '#'
+					codeUrl: '/problem/141'
 				}
 			]
 		}
